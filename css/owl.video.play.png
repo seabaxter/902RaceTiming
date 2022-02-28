@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en-CA" class="no-js">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Page not found &#8211; 902RaceTiming</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="902RaceTiming &raquo; Feed" href="http://localhost:8888/WordPress/website1/feed/" />
+<link rel="alternate" type="application/rss+xml" title="902RaceTiming &raquo; Comments Feed" href="http://localhost:8888/WordPress/website1/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost:8888\/WordPress\/website1\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-event-manager-frontend-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/css/frontend.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wp-event-manager-jquery-ui-daterangepicker-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wp-event-manager-jquery-ui-daterangepicker-style-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/styles.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wp-event-manager-jquery-ui-css-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/js/jquery-ui/jquery-ui.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wp-event-manager-grid-style-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/css/wpem-grid.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wp-event-manager-font-style-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/fonts/style.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost:8888/WordPress/website1/wp-includes/css/dist/block-library/style.min.css?ver=5.9.1' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code>code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group:where(.has-background){padding:1.25em 2.375em}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.4' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='slick-style-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/blog-designer-pack/assets/css/slick.css?ver=2.2.9' media='all' />
+<link rel='stylesheet' id='bdp-public-style-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/blog-designer-pack/assets/css/bdp-public.css?ver=2.2.9' media='all' />
+<link rel='stylesheet' id='rtec_styles-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/registrations-for-the-events-calendar/css/rtec-styles.css?ver=2.7.10' media='all' />
+<link rel='stylesheet' id='wpsm_team_b-font-awesome-front-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/team-builder/assets/css/font-awesome/css/font-awesome.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wpsm_team_b_bootstrap-front-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/team-builder/assets/css/bootstrap-front.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wpsm_team_b_team-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/team-builder/assets/css/team.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wpsm_team_b_owl_carousel_min_css-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/team-builder/assets/css/owl.carousel.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wp-event-manager-jquery-timepicker-css-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/js/jquery-timepicker/jquery.timepicker.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='inspiro-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A%7CInter%3A200%2C300%2C500%2C600%7CMontserrat%3A700&#038;display=swap&#038;ver=1.6.2' media='all' />
+<link rel='stylesheet' id='inspiro-style-css'  href='http://localhost:8888/WordPress/website1/wp-content/themes/inspiro/assets/css/minified/style.min.css?ver=1.6.2' media='all' />
+<style id='inspiro-style-inline-css'>
+body, button, input, select, textarea {
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+text-transform: capitalize;
+}
+@media screen and (min-width: 782px) {
+body, button, input, select, textarea {
+font-size: 23px;
+line-height: 1.2;
+} }
+body:not(.wp-custom-logo) a.custom-logo-text {
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+text-transform: uppercase;
+}
+@media screen and (min-width: 782px) {
+body:not(.wp-custom-logo) a.custom-logo-text {
+font-size: 27px;
+line-height: 1.8;
+} }
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+text-transform: capitalize;
+line-height: 1.4;
+}
+.site-title {
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+line-height: 1.25;
+}
+@media screen and (min-width: 782px) {
+.site-title {
+font-size: 68px;
+} }
+.site-description {
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+line-height: 1.8;
+}
+@media screen and (min-width: 782px) {
+.site-description {
+font-size: 18px;
+} }
+.custom-header-button {
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+line-height: 1.8;
+}
+@media screen and (min-width: 782px) {
+.custom-header-button {
+font-size: 13px;
+} }
+.navbar-nav a {
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+line-height: 1.8;
+}
+@media screen and (min-width: 782px) {
+.navbar-nav a {
+font-size: 18px;
+} }
+@media screen and (max-width: 64em) {
+.navbar-nav li a {
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+text-transform: uppercase;
+line-height: 1.8;
+} }
+
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost:8888/WordPress/website1/wp-includes/css/dashicons.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='zoom-instagram-widget-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/instagram-widget-by-wpzoom/css/instagram-widget.css?ver=1.9.4' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/instagram-widget-by-wpzoom/assets/frontend/magnific-popup/magnific-popup.css?ver=1.9.4' media='all' />
+<link rel='stylesheet' id='swiper-css-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/instagram-widget-by-wpzoom/assets/frontend/swiper/swiper.css?ver=1.9.4' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1642170923' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1642170923' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1642170923' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1642170923' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1642170923' media='all' />
+<link rel='stylesheet' id='um_fonticons_ii-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_fonticons_fa-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='select2-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/select2/select2.min.css?ver=4.0.13' media='all' />
+<link rel='stylesheet' id='um_crop-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_modal-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_styles-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-styles.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_profile-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-profile.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_account-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-account.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_misc-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-misc.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_fileupload-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-fileupload.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_datetime-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/pickadate/default.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_datetime_date-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_datetime_time-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/pickadate/default.time.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_raty-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-raty.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_scrollbar-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/simplebar.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_tipsy-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-tipsy.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_responsive-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-responsive.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='um_default_css-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/css/um-old-default.css?ver=2.3.0' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-ttf-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.ttf?v=1.8.6' type='font/ttf' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff?v=1.8.6' type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-ttf-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.ttf?v=4.7.0' type='font/ttf' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff?v=4.7.0' type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0' type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-ttf-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.ttf' type='font/ttf' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff' type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-ttf-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.ttf?v=4.2.4' type='font/ttf' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff?v=4.2.4' type='font/woff' crossorigin />
+        <script>
+            /* <![CDATA[ */
+            var rcewpp = {
+                "ajax_url":"http://localhost:8888/WordPress/website1/wp-admin/admin-ajax.php",
+                "nonce": "ec92412582",
+                "home_url": "http://localhost:8888/WordPress/website1/",
+                "settings_icon": 'http://localhost:8888/WordPress/website1/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings.png',
+                "settings_hover_icon": 'http://localhost:8888/WordPress/website1/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings_hover.png'
+            };
+            /* ]]\> */
+        </script>
+        <script src='http://localhost:8888/WordPress/website1/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/team-builder/assets/js/owl.carousel.min.js?ver=5.9.1' id='wpsm_team_b_owl_carousel_min_js-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js?ver=2.3.0' id='um-gdpr-js'></script>
+<link rel="https://api.w.org/" href="http://localhost:8888/WordPress/website1/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/WordPress/website1/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/WordPress/website1/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.1" />
+		<style type="text/css">
+			.um_request_name {
+				display: none !important;
+			}
+		</style>
+				<style type="text/css" id="custom-theme-colors" data-hex="#000000">
+				
+/**
+ * Inspiro Lite: Color Patterns
+ *
+ * Colors are ordered from dark to light.
+ */
+
+a,
+a:focus,
+.colors-custom .entry-content a:focus,
+.colors-custom .entry-content a:hover,
+.colors-custom .entry-summary a:focus,
+.colors-custom .entry-summary a:hover,
+.colors-custom .comment-content a:focus,
+.colors-custom .comment-content a:hover,
+.colors-custom .widget a:focus,
+.colors-custom .widget a:hover,
+.colors-custom .site-footer .widget-area a:focus,
+.colors-custom .site-footer .widget-area a:hover,
+.colors-custom .posts-navigation a:focus,
+.colors-custom .posts-navigation a:hover,
+.colors-custom .comment-metadata a:focus,
+.colors-custom .comment-metadata a:hover,
+.colors-custom .comment-metadata a.comment-edit-link:focus,
+.colors-custom .comment-metadata a.comment-edit-link:hover,
+.colors-custom .comment-reply-link:focus,
+.colors-custom .comment-reply-link:hover,
+.colors-custom .widget_authors a:focus strong,
+.colors-custom .widget_authors a:hover strong,
+.colors-custom .entry-title a:focus,
+.colors-custom .entry-title a:hover,
+.colors-custom .page-links a:focus .page-number,
+.colors-custom .page-links a:hover .page-number,
+.colors-custom .entry-footer a:focus,
+.colors-custom .entry-footer a:hover,
+.colors-custom .entry-footer .tags-links a:focus,
+.colors-custom .entry-footer .tags-links a:hover,
+.colors-custom .logged-in-as a:focus,
+.colors-custom .logged-in-as a:hover,
+.colors-custom a:focus .nav-title,
+.colors-custom a:hover .nav-title,
+.colors-custom .edit-link a:focus,
+.colors-custom .edit-link a:hover,
+.colors-custom .site-info a:focus,
+.colors-custom .site-info a:hover,
+.colors-custom .widget .widget-title a:focus,
+.colors-custom .widget .widget-title a:hover,
+.colors-custom .widget ul li a:focus,
+.colors-custom .widget ul li a:hover,
+.colors-custom .entry-meta a:focus,
+.colors-custom .entry-meta a:hover,
+.colors-custom.blog .entry-meta a:hover,
+.colors-custom.archive .entry-meta a:hover,
+.colors-custom.search .entry-meta a:hover,
+.colors-custom .comment-author .fn a:focus,
+.colors-custom .comment-author .fn a:hover {
+	color: #000000;
+}
+
+.colors-custom.page .entry-cover-image .entry-header .entry-meta a:hover,
+.colors-custom.single .entry-cover-image .entry-header .entry-meta a:hover {
+	color: #000000;
+}
+
+.colors-custom .entry-content .more-link:hover,
+.colors-custom .entry-content .more-link:focus,
+.colors-custom .entry-content .more_link:hover,
+.colors-custom .entry-content .more_link:focus,
+.colors-custom .entry-summary .more-link:hover,
+.colors-custom .entry-summary .more-link:focus,
+.colors-custom .entry-summary .more_link:hover,
+.colors-custom .entry-summary .more_link:focus {
+    color: #000000;
+    border-color: #000000;
+}
+
+.colors-custom .btn-primary,
+.colors-custom .side-nav .search-form .search-submit,
+.colors-custom .site-footer .search-form .search-submit,
+.colors-custom .button:hover,
+.colors-custom .btn:hover,
+.colors-custom .side-nav .search-form .search-submit:hover,
+.colors-custom .site-footer .search-form .search-submit:hover,
+.colors-custom .infinite-scroll #infinite-handle span:hover,
+.colors-custom div.wpforms-container-full .wpforms-form input[type=submit]:hover,
+.colors-custom div.wpforms-container-full .wpforms-form button[type=submit]:hover,
+.colors-custom div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,
+.colors-custom .search-form button.search-submit:hover,
+.colors-custom input[type=button]:hover,
+.colors-custom input[type=reset]:hover,
+.colors-custom input[type=submit]:hover,
+.colors-custom #respond #submit:hover,
+.colors-custom.woocommerce #content input.button:hover,
+.colors-custom.woocommerce #respond input#submit:hover,
+.colors-custom.woocommerce button.button.alt:hover,
+.colors-custom.woocommerce button.button:hover,
+.colors-custom.woocommerce div.product form.cart .button:hover,
+.colors-custom.woocommerce input.button:hover,
+.colors-custom.woocommerce-page #main a.button:hover,
+.colors-custom.woocommerce-page #main input.button:hover,
+.colors-custom.woocommerce-page #respond input#submit:hover,
+.colors-custom.woocommerce-page a.button:hover,
+.colors-custom.woocommerce-page button.button:hover,
+.colors-custom.woocommerce-page div.product form.cart .button:hover,
+.colors-custom.woocommerce-page input.button:hover {
+	color: #000000;
+	border-color: #000000;
+}
+
+.colors-custom input:focus,
+.colors-custom textarea:focus {
+	border-color: #000000;
+}
+
+.colors-custom .navbar-nav > li > ul:before {
+	border-bottom: 8px solid #000000;
+}
+
+.colors-custom.single #jp-relatedposts .jp-relatedposts-items-visual h4.jp-relatedposts-post-title a:hover {
+	color: #000000;
+}
+
+.colors-custom .sticky .svg-icon-thumb-tack {
+    fill: #000000;
+}
+
+
+.colors-custom.woocommerce #content div.product p.price,
+.colors-custom.woocommerce #content div.product span.price,
+.colors-custom.woocommerce div.product p.price,
+.colors-custom.woocommerce div.product span.price,
+.colors-custom.woocommerce-page #content div.product p.price,
+.colors-custom.woocommerce-page #content div.product span.price,
+.colors-custom.woocommerce-page div.product p.price,
+.colors-custom.woocommerce-page div.product span.price
+.colors-custom.woocommerce ul.products li.product .price,
+.colors-custom.woocommerce-page ul.products li.product .price
+.colors-custom .comments-pagination .page-numbers.current,
+.colors-custom .comments-pagination .page-numbers:not(.dots):hover,
+.colors-custom .pagination .page-numbers.current,
+.colors-custom .pagination .page-numbers:not(.dots):hover {
+	color: #000000;
+}
+
+.colors-custom .search-form input:focus,
+.colors-custom .search-form button:focus {
+    border-color: #000000;
+}
+
+.colors-custom .side-nav .search-form .search-submit,
+.colors-custom .side-nav .search-form .search-submit:hover {
+    color: #000000;
+    border: 2px solid #000000;
+}
+
+.colors-custom .section-footer .zoom-instagram-widget a.ig-b-v-24:hover {
+    color: #000000 !important;
+}
+
+.colors-custom .woocommerce-pagination .current,
+.colors-custom .woocommerce-pagination .page-numbers:hover {
+    color: #000000 !important;
+}
+
+
+@media (min-width: 64em) {
+	.colors-custom .navbar-nav ul {
+	    border-top: 2px solid #000000;
+	}
+}			</style>
+					<style id="inspiro-custom-header-styles" type="text/css">
+					.site-title a,
+			.colors-dark .site-title a,
+			.colors-custom .site-title a,
+			body.has-header-image .site-title a,
+			body.has-header-video .site-title a,
+			body.has-header-image.colors-dark .site-title a,
+			body.has-header-video.colors-dark .site-title a,
+			body.has-header-image.colors-custom .site-title a,
+			body.has-header-video.colors-custom .site-title a,
+			.site-description,
+			.colors-dark .site-description,
+			.colors-custom .site-description,
+			body.has-header-image .site-description,
+			body.has-header-video .site-description,
+			body.has-header-image.colors-dark .site-description,
+			body.has-header-video.colors-dark .site-description,
+			body.has-header-image.colors-custom .site-description,
+			body.has-header-video.colors-custom .site-description {
+				color: #f2d019;
+			}
+		
+					.custom-header-button {
+				color: #f2d019;
+				border-color: #f2d019;
+			}
+		
+					.custom-header-button:hover {
+				color: #000000;
+			}
+		
+					.custom-header-button:hover {
+				background-color: #f2d019;
+				border-color: #f2d019;
+			}
+				</style>
+		<link rel="icon" href="http://localhost:8888/WordPress/website1/wp-content/uploads/2022/01/cropped-902-Race-Timing_Reverse-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://localhost:8888/WordPress/website1/wp-content/uploads/2022/01/cropped-902-Race-Timing_Reverse-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://localhost:8888/WordPress/website1/wp-content/uploads/2022/01/cropped-902-Race-Timing_Reverse-1-180x180.png" />
+<meta name="msapplication-TileImage" content="http://localhost:8888/WordPress/website1/wp-content/uploads/2022/01/cropped-902-Race-Timing_Reverse-1-270x270.png" />
+		<style id="wp-custom-css">
+			#content {
+	background-color: black;
+}
+.custom-logo-link img {
+	 max-height: 115px !important; 
+}
+.navbar-nav > li.current-menu-item > a {
+	color: #F2D019 !important;
+}
+
+.site-branding h1, p {
+	font-weight: bold !important;
+}
+
+h2.has-white-color.has-text-color {
+	color: #F2D019 !important;
+}
+
+.wpem-event-listings-header h2 {
+	color: #F2D019 !important;
+}
+
+
+.entry-title {
+	color: white !important;
+}
+
+.logo {
+	max-width: 126px;
+}
+
+.single_event_listing, h3, .wpem-single-event-body, .wpem-event-organizer {
+	color: white !important;
+	background-color: black !important;
+}
+
+.single_event_listing button {
+	background-color: #F2D019 !important;
+	color: black !important;
+}
+
+.single_event_listing .wpem-event-type-text, .wpem-event-category-text {
+	background-color: #F2D019 !important;
+	color: black !important;
+}
+
+.wpforms-field-container .wpforms-field-label, .wpforms-field {
+	color: white !important;
+}
+.wpforms-submit-container button {
+	background-color: #F2D019 !important;
+	color: black !important;
+}
+
+tbody {
+	color: white !important;
+	
+}
+tbody:hover {
+	color: white !important;
+}
+
+thead {
+	color: white !important;
+}
+
+.wp-block-media-text__content {
+	padding: 0 !important;
+}
+
+.wp-block-buttons a:hover {
+	background-color: #F2D019 !important;
+}
+
+.wp-block-buttons.is-content-justification-center a:hover {
+	background-color: white !important;
+}
+
+.site-content-contain {
+	color: white !important;
+}
+
+.site-content-contain .entry-meta .entry-date {
+	color: white !important;
+}
+.site-content-contain .entry-author, .url, .post-author {
+	color: white !important;
+	
+}
+.site-content-contain a {
+	color:  white;
+}
+
+.form-submit input {
+	background-color: #F2D019 !important;
+}
+.form-submit input:hover {
+	background-color: white !important;
+}
+
+.post-author {
+	font-size: 80% !important;
+}
+.site-content-contain a,{
+	font-size: 80% !important;
+}
+.site-content-contain h3 {
+	font-size: 100% !important;
+}
+
+.bdp-post-grid-content, .bdp-post-margin-content {
+	background-color: black !important;
+}
+.bdp-post-content a {
+	background-color: #F2D019 !important;
+	color: black !important;
+}
+.bdp-post-content a:hover {
+	background-color: white !important;
+}
+
+
+
+		</style>
+		
+</head>
+
+<body class="error404 wp-custom-logo wp-embed-responsive hfeed post-display-content-excerpt colors-custom inspiro elementor-default elementor-kit-7">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<aside id="side-nav" class="side-nav" tabindex="-1">
+	<div class="side-nav__scrollable-container">
+		<div class="side-nav__wrap">
+			<div class="side-nav__close-button">
+				<button type="button" class="navbar-toggle">
+					<span class="screen-reader-text">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+							<nav class="mobile-menu-wrapper" aria-label="Mobile Menu" role="navigation">
+					<ul id="menu-main-menu" class="nav navbar-nav"><li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-33"><a href="http://localhost:8888/WordPress/website1/">Home</a></li>
+<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="http://localhost:8888/WordPress/website1/meet-the-team/">Meet The Team</a></li>
+<li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="http://localhost:8888/WordPress/website1/services/">Services</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="http://localhost:8888/WordPress/website1/registration/">Registration</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="http://localhost:8888/WordPress/website1/results/">Results</a></li>
+<li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="http://localhost:8888/WordPress/website1/blog-2/">Blog</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://localhost:8888/WordPress/website1/contact/">Contact</a></li>
+</ul>				</nav>
+								</div>
+	</div>
+</aside>
+<div class="side-nav-overlay"></div>
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+		<div id="site-navigation" class="navbar">
+    	<div class="header-inner inner-wrap">
+
+		<div class="header-logo-wrapper">
+			<a href="http://localhost:8888/WordPress/website1/" class="custom-logo-link" rel="home"><img width="1485" height="994" src="http://localhost:8888/WordPress/website1/wp-content/uploads/2022/01/instapostAsset-1@4x.png" class="custom-logo" alt="902RaceTiming" srcset="http://localhost:8888/WordPress/website1/wp-content/uploads/2022/01/instapostAsset-1@4x.png 1485w, http://localhost:8888/WordPress/website1/wp-content/uploads/2022/01/instapostAsset-1@4x-300x201.png 300w, http://localhost:8888/WordPress/website1/wp-content/uploads/2022/01/instapostAsset-1@4x-1024x685.png 1024w, http://localhost:8888/WordPress/website1/wp-content/uploads/2022/01/instapostAsset-1@4x-768x514.png 768w" sizes="100vw" /></a>		</div>
+
+		<div class="header-navigation-wrapper">
+							<nav class="primary-menu-wrapper navbar-collapse collapse" aria-label="Top Horizontal Menu" role="navigation">
+					<ul id="menu-main-menu-1" class="nav navbar-nav dropdown sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-33"><a href="http://localhost:8888/WordPress/website1/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="http://localhost:8888/WordPress/website1/meet-the-team/">Meet The Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="http://localhost:8888/WordPress/website1/services/">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="http://localhost:8888/WordPress/website1/registration/">Registration</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="http://localhost:8888/WordPress/website1/results/">Results</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="http://localhost:8888/WordPress/website1/blog-2/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://localhost:8888/WordPress/website1/contact/">Contact</a></li>
+</ul>				</nav>
+			
+			
+			<div id="sb-search" class="sb-search" style="display: block;">
+				
+<form method="get" id="searchform" action="http://localhost:8888/WordPress/website1/">
+	<label for="search-form-input">
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="sb-search-input" placeholder="Type your keywords and hit Enter..." name="s" id="search-form-input" autocomplete="off" />
+	</label>
+	<button class="sb-search-button-open" aria-expanded="false">
+		<span class="sb-icon-search">
+			<svg class="svg-icon svg-icon-search" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)" /></svg>		</span>
+	</button>
+	<button class="sb-search-button-close" aria-expanded="false">
+		<span class="sb-icon-search">
+			<svg class="svg-icon svg-icon-cross" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><polygon fill="" fill-rule="evenodd" points="6.852 7.649 .399 1.195 1.445 .149 7.899 6.602 14.352 .149 15.399 1.195 8.945 7.649 15.399 14.102 14.352 15.149 7.899 8.695 1.445 15.149 .399 14.102" /></svg>		</span>
+	</button>
+</form>
+			</div>
+
+							<button type="button" class="navbar-toggle">
+					<span class="screen-reader-text">Toggle sidebar &amp; navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+					</div>
+	</div><!-- .inner-wrap -->
+</div><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	
+	<div class="site-content-contain">
+		<div id="content" class="site-content">
+
+<div class="inner-wrap">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+				<div class="page-content">
+					<p>It looks like nothing was found at this location. Maybe try a search?</p>
+
+					
+
+<form role="search" method="get" class="search-form" action="http://localhost:8888/WordPress/website1/">
+	<label for="search-form-1">
+		<span class="screen-reader-text">Search for:</span>
+	</label>
+	<input type="search" id="search-form-1" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+	<button type="submit" class="search-submit"><svg class="svg-icon svg-icon-search" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)" /></svg><span>Search</span></button>
+</form>
+
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+		</main><!-- #main -->
+	</div><!-- #primary -->
+</div><!-- .inner-wrap -->
+
+
+		</div><!-- #content -->
+
+		
+		<footer id="colophon" class="site-footer has-footer-widgets" role="contentinfo">
+			<div class="inner-wrap">
+				
+
+	<aside class="footer-widgets widgets widget-columns-3" role="complementary" aria-label="Footer">
+
+							<div class="widget-column footer-widget-1">
+					<section id="text-4" class="widget widget_text"><h2 class="title">Find Us</h2>			<div class="textwidget"><p><strong>Address</strong><br />
+Sydney, Nova Scotia</p>
+</div>
+		</section>					</div>
+									<div class="widget-column footer-widget-2">
+					<section id="text-7" class="widget widget_text"><h2 class="title">Contact Us</h2>			<div class="textwidget"><p><strong>Phone Number: </strong><br />
+902-595-4681</p>
+<p><strong>E-Mail: </strong><br />
+902racetiming@gmail.com</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+		</section>					</div>
+									<div class="widget-column footer-widget-3">
+					<section id="text-5" class="widget widget_text"><h2 class="title">About This Site</h2>			<div class="textwidget"><p>This may be a good place to introduce yourself and your site or include some credits.</p>
+</div>
+		</section><section id="block-8" class="widget widget_block"><div class="wpforms-container wpforms-container-full" id="wpforms-114"><form id="wpforms-form-114" class="wpforms-validate wpforms-form wpforms-ajax-form" data-formid="114" method="post" enctype="multipart/form-data" action="/WordPress/website1/wp-content/plugins/team-builder/assets/css/owl.video.play.png" data-token="19f752b0f41ff2ebc572196ad900af25"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-field-container"><div id="wpforms-114-field_4-container" class="wpforms-field wpforms-field-email" data-field-id="4"><label class="wpforms-field-label" for="wpforms-114-field_4">Sign-Up For Our Newsletter <span class="wpforms-required-label">*</span></label><input type="email" id="wpforms-114-field_4" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][4]" required><div class="wpforms-field-description">E-Mail</div></div></div><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="114"><input type="hidden" name="wpforms[author]" value="0"><button type="submit" name="wpforms[submit]" id="wpforms-submit-114" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Submit" aria-live="assertive" value="wpforms-submit">Submit</button><img src="http://localhost:8888/WordPress/website1/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg" class="wpforms-submit-spinner" style="display: none;" width="26" height="26" alt=""></div></form></div>  <!-- .wpforms-container --></section>					</div>
+				
+	</aside><!-- .widget-area -->
+
+	<div class="site-footer-separator"></div>
+
+<div class="site-info">
+		<span class="copyright">
+		<span>
+			<a href="https://en-ca.wordpress.org/" target="_blank">
+				Powered by WordPress			</a>
+		</span>
+		<span>
+			Inspiro WordPress Theme by <a href="https://www.wpzoom.com/" target="_blank" rel="nofollow">WPZOOM</a>
+		</span>
+	</span>
+</div><!-- .site-info -->
+			</div><!-- .inner-wrap -->
+		</footer><!-- #colophon -->
+	</div><!-- .site-content-contain -->
+</div><!-- #page -->
+
+<div id="um_upload_single" style="display:none"></div>
+<div id="um_view_photo" style="display:none">
+
+	<a href="javascript:void(0);" data-action="um_remove_modal" class="um-modal-close"
+	   aria-label="Close view photo modal">
+		<i class="um-faicon-times"></i>
+	</a>
+
+	<div class="um-modal-body photo">
+		<div class="um-modal-photo"></div>
+	</div>
+
+</div><link rel='stylesheet' id='wpforms-full-css'  href='http://localhost:8888/WordPress/website1/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.min.css?ver=1.7.2' media='all' />
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/js/common.min.js?ver=3.1.22' id='wp-event-manager-common-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.1' id='jquery-ui-controlgroup-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.1' id='jquery-ui-checkboxradio-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/jquery/ui/button.min.js?ver=1.13.1' id='jquery-ui-button-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.1' id='jquery-ui-datepicker-js'></script>
+<script id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"d MM yy","firstDay":0,"isRTL":false});});
+</script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.1' id='jquery-ui-menu-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.1' id='moment-js'></script>
+<script id='moment-js-after'>
+moment.updateLocale( 'en_CA', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":0},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"j F Y","LLL":"j F Y g:i a","LLLL":null}} );
+</script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.js?ver=3.1.22' id='wp-event-manager-jquery-ui-daterangepicker-js'></script>
+<script id='wp-event-manager-content-event-listing-js-extra'>
+var event_manager_content_event_listing = {"i18n_initialText":"Select date range","i18n_applyButtonText":"Apply","i18n_clearButtonText":"Clear","i18n_cancelButtonText":"Cancel","i18n_today":"Today","i18n_tomorrow":"Tomorrow","i18n_thisWeek":"This Week","i18n_nextWeek":"Next Week","i18n_thisMonth":"This Month","i18n_nextMonth":"Next Month","i18n_thisYear":"This Year","i18n_nextYear":"Next Month"};
+var event_manager_content_event_listing = {"i18n_datepicker_format":"yy-mm-dd","i18n_initialText":"Select Date Range","i18n_applyButtonText":"Apply","i18n_clearButtonText":"Clear","i18n_cancelButtonText":"Cancel","i18n_today":"Today","i18n_tomorrow":"Tomorrow","i18n_thisWeek":"This Week","i18n_nextWeek":"Next Week","i18n_thisMonth":"This Month","i18n_nextMonth":"Next Month","i18n_thisYear":"This Year","i18n_nextYear":"Next Year"};
+</script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/js/content-event-listing.min.js?ver=3.1.22' id='wp-event-manager-content-event-listing-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/js/jquery-deserialize/jquery.deserialize.js?ver=1.2.1' id='jquery-deserialize-js'></script>
+<script id='wp-event-manager-ajax-filters-js-extra'>
+var event_manager_ajax_filters = {"ajax_url":"http:\/\/localhost:8888\/WordPress\/website1\/em-ajax\/get_listings\/","is_rtl":"0","lang":null};
+var event_manager_ajax_filters = {"ajax_url":"\/WordPress\/website1\/em-ajax\/%%endpoint%%\/","is_rtl":"0","lang":null};
+</script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/js/event-ajax-filters.min.js?ver=3.1.22' id='wp-event-manager-ajax-filters-js'></script>
+<script id='rtec_scripts-js-extra'>
+var rtec = {"ajaxUrl":"http:\/\/localhost:8888\/WordPress\/website1\/wp-admin\/admin-ajax.php","checkForDuplicates":"","translations":{"honeypotClear":"I am not a robot"}};
+</script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/registrations-for-the-events-calendar/js/rtec-scripts.js?ver=2.7.10' id='rtec_scripts-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/wp-event-manager/assets/js/jquery-timepicker/jquery.timepicker.min.js?ver=3.1.22' id='wp-event-manager-jquery-timepicker-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/themes/inspiro/assets/js/minified/plugins.min.js?ver=1.6.2' id='inspiro-lite-js-plugins-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/themes/inspiro/assets/js/minified/scripts.min.js?ver=1.6.2' id='inspiro-lite-script-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1642170923' id='zoom-social-icons-widget-frontend-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js?ver=4.0.13' id='select2-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/underscore.min.js?ver=1.13.1' id='underscore-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/WordPress\/website1\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/wp-util.min.js?ver=5.9.1' id='wp-util-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-crop.min.js?ver=2.3.0' id='um_crop-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js?ver=2.3.0' id='um_modal-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js?ver=2.3.0' id='um_jquery_form-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-fileupload.js?ver=2.3.0' id='um_fileupload-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js?ver=2.3.0' id='um_datetime-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js?ver=2.3.0' id='um_datetime_date-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js?ver=2.3.0' id='um_datetime_time-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c' id='wp-hooks-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-raty.min.js?ver=2.3.0' id='um_raty-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js?ver=2.3.0' id='um_tipsy-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b' id='jquery-masonry-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/simplebar.min.js?ver=2.3.0' id='um_scrollbar-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js?ver=2.3.0' id='um_functions-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js?ver=2.3.0' id='um_responsive-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js?ver=2.3.0' id='um_conditional-js'></script>
+<script id='um_scripts-js-extra'>
+var um_scripts = {"max_upload_size":"8388608","nonce":"f865e39e06"};
+</script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js?ver=2.3.0' id='um_scripts-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js?ver=2.3.0' id='um_profile-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/ultimate-member/assets/js/um-account.min.js?ver=2.3.0' id='um_account-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.3' id='wpforms-validation-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2' id='wpforms-mailcheck-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/wpforms-lite/assets/js/punycode.min.js?ver=1.0.0' id='wpforms-punycode-js'></script>
+<script src='http://localhost:8888/WordPress/website1/wp-content/plugins/wpforms-lite/assets/js/wpforms.min.js?ver=1.7.2' id='wpforms-js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpforms_settings = {"val_required":"This field is required.","val_email":"Please enter a valid email address.","val_email_suggestion":"Did you mean {suggestion}?","val_email_suggestion_title":"Click to accept this suggestion.","val_email_restricted":"This email address is not allowed.","val_number":"Please enter a valid number.","val_number_positive":"Please enter a valid positive number.","val_confirm":"Field values do not match.","val_checklimit":"You have exceeded the number of allowed selections: {#}.","val_limit_characters":"{count} of {limit} max characters.","val_limit_words":"{count} of {limit} max words.","val_recaptcha_fail_msg":"Google reCAPTCHA verification failed, please try again later.","val_empty_blanks":"Please fill out all blanks.","uuid_cookie":"","locale":"en","wpforms_plugin_url":"http:\/\/localhost:8888\/WordPress\/website1\/wp-content\/plugins\/wpforms-lite\/","gdpr":"","ajaxurl":"http:\/\/localhost:8888\/WordPress\/website1\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"],"is_ssl":""}
+/* ]]> */
+</script>
+		<script type="text/javascript">
+			jQuery( window ).on( 'load', function() {
+				jQuery('input[name="um_request"]').val('');
+			});
+		</script>
+	
+</body>
+</html>
